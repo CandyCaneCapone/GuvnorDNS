@@ -2,6 +2,8 @@
 
 This Python script allows you to query DNS PTR (reverse DNS) records for a single IP address or a list of IP addresses from a file. It supports multithreading to speed up querying multiple IP addresses and allows you to save the results to a file or display them in the terminal.
 
+![Example](https://github.com/CandyCaneCapone/GuvnorDNS/blob/main/example.png?raw=true)
+
 ## Features
 
 - Query a single IP address or multiple IP addresses from a file.
